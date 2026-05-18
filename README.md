@@ -1,2 +1,5 @@
-# Beaconchain-
-![Security](https://img.shields.io/badge/Security-10%2F10-success) ![GDPR](https://img.shields.io/badge/GDPR-RDY-blue) ![SCC](https://img.shields.io/badge/SCC-RDY-blue)
+[![Security](https://img.shields.io/badge/Security-10%2F10-brightgreen?style=for-the-badge&logo=shield)](https://beaconchain.us/security)
+[![GDPR](https://img.shields.io/badge/GDPR-Compliant-blue?style=for-the-badge&logo=gdpr)](https://beaconchain.us/gdpr)
+[![SCC](https://img.shields.io/badge/SCC-Ready-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptLTIgMTVMNyAxNGwxLjQtMS40IDIuNiAyLjYgNi42LTYuNiAxLjQgMS40LTggOHoiLz48L3N2Zz4=)](https://beaconchain.us/scc)
+[![Node](https://img.shields.io/badge/Node.js-16%2B-339933?style=for-the-badge&logo=nodedotjs)](https://nodejs.org)
+[![License](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge&logo=gnu)](LICENSE)
